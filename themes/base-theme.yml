@@ -1,0 +1,5 @@
+base:
+  font_family: Times-Roman
+  font_size: 12
+page:
+  page_size: Letter

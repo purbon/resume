@@ -1,0 +1,140 @@
+////
+Urbon Pere
+===========
+Optional Author Name <pere.urbon@gmail.com>
+Optional 1.0, 03-01-2016
+:Author:    Urbón Bayes, Pere
+:Email:     <pere.urbon@gmail.com>
+:Date:      03-01-2016
+:Revision:  1.0
+////
+
+== Urbon Bayes, Pere
+
+[cols="1a,2a", frame="none", grid="none"]
+|===
+|
+.Address
+
+[%hardbreaks]
+Wildenbruchstr 85
+12045 Berlin
+Germany
+|
+.Contact
+
+[%hardbreaks]
+_tel_: +49.157/81949910, _email_: pere.urbon@gmail.com
+http://www.purbon.com[_web_], http://github.com/purbon[_github_]
+|===
+
+== I worked for
+
+=== Belectric IT Solutions Gmbh - _Software Architect_
+
+[cols="2", frame="none", grid="none"]
+|===
+|Jena, Germany| March 2012 - Present
+2+| As a software engineer I’m de responsible of handcrafting new apps for and by the energy management society. Helping clients and companies deal with
+large amount of data, and helping our planet to be more green. With special focus on Smart Grid solutions, we provide solar energy companies with 
+solutions to improve, and analyse, their production process. This projects include collaborations with top German Universities.
+|===
+
+=== Moviepilot Gmbh - _Senior Data Digester_
+
+[frame="none", grid="none"]
+|===
+|Berlin, Germany| March 2011 - Feb 2012
+2+| As a senior data digester I’m involved into every NoSQL use case detected inside the company. Specialized on Graph databases, developing algorithms and 
+data modeling and analytics over some huge datasets.
+|===
+
+=== Data Management Group - _Senior Software Engineer_
+==== Dept of Computer Architecture, Universitat Politècnica de Catalunya
+
+[frame="none", grid="none"]
+|===
+|Barcelona, Spain | May 2008 - Dec 2010
+2+| As a DEX team member I’m the main developer taking on the evolution of the new visual management tool set. DEX is a new generation of database following
+the graph database paradigm, specifically DEX has got very optimal performance times with database of TB. Also I’m in charge of the maintenance of Bibex, 
+a bibliographic search application on top of DEX. The main technologies involved in my work are Java, J2EE and Python.
+|===
+
+=== Unitat d’Informàtica Medica - _Senior Software Engineer_
+==== Fundació Clínic per a la Recerca Biomèdica
+
+[frame="none", grid="none"]
+|===
+|Barcelona, Spain | June 2007 - May 2008
+2+| As a Software Enginner I was involved on HCPP ( Problem oriented electronic healtcare registry ) development. This project was mainly developed using 
+J2EE technologies and information semantic standards. As a member of UIM I was on early and late ( programming and test ) iterations. Also I was involved 
+with a heavy refactoring project, on this tasks we rebuild a knowledge management web site called OntoDDB.
+|===
+
+== Education
+
+* MSc in Computer Science by Universitat Oberta de Catalunya, 2009.
+* Formal argumentation by Universitat Oberta de Catalunya, Feb 2009.
+* E-Commerce Security. Universitat d’estiu de Sabadell. July 2003.
+* High school Technical speciality, IES Giola 2000.
+
+
+== Languages
+
+[cols="2", frame="none", grid="none"]
+|===
+| Catalan | Native
+| Spanish | Native
+| English | Fluent
+| Deutsche | Conversational
+|===
+
+== Topics of Interest
+
+* Projects: Scrum, Kanban, UML, Team building.
+* Programming: Ruby, Java, Scala, Go, Rustlang.
+* Databases/NoSQL: MySQL, PostgreSQL, SQL Server, Elasticsearch, Neo4j, MongoDB, Redis, Cassandra.
+* Web stack: Sinatra, Ruby on Rails, JSP, Struts, HTML5, CoffeeScript, Backbone.js, JQuery, GWT, JSON, XML.
+* Processing stack: Hadoop, Sidekiq, Resque.
+* Geo Information systems: Leaflet.js, OpenGIS.
+* SCM: Git, Subversion.
+* OS: Linux (debian, ubuntu, redhat), Mac OS X.
+* IDE: Vim, Eclipse, IntelliJ IDEA, Visual Studio.
+
+<<<
+
+== Talks, Conferences and Contributions
+
+=== 2015
+
+* Hands on Elastic(Search). Librecon 2015, Santiago de Compostela, Spain. (http://www.librecon.io/conferencias/#taller-practico-sobre-elastic-search[link]).
+* Scaling Logstash, DevOps Meetup, Berlin, Germany. (http://www.meetup.com/blndevops/events/221953734/[link]).
+* Scaling Logstash: A Collection of War Stories. OSDC 2015, Berlin, Germany. (https://www.netways.de/?id=3020#c17318[link]).
+* Logstash, from theory to real life, Elasticsearch Meetup Berlin, Germany. (http://www.meetup.com/Search-UG-Berlin/events/219666153/[link]).
+* ELK, making sense of your data (not just for logs!), FOSDEM 2015, Brussels, Belgium. (https://archive.fosdem.org/2015/schedule/event/elk,_making_sense_of_your_data_not_just_for_logs!/[link]).
+* Making sense of your data with the ELK, Jan 2015 Elasticsearch Meetup Barcelona, Spain. (http://www.meetup.com/Barcelona-Elastic-Fantastics/events/219060414/[link]).
+
+=== 2010-2014
+
+* A simple hadoop scheduler. NoSQL Matters 2013, Cologne, Germany. (https://2014.nosql-matters.org/cgn/abstracts/#abstract_379886060[link]).
+* From Tables to Graph, The recsys use case. NoSQL Matters 2012, Cologne, Germany. (https://2012.nosql-matters.org/cgn/[link]) .
+* NoSQL it doesnt hurt and its fun. Jornades de PLL 2011, Barcelona, Spain. (http://jpl.cpl.upc.edu/x-jornades/conferencies-convidades/bases-de-dades-nosql[link]) .
+* Graph databases, The web of data storage. FOSDEM 2011, Brussels, Belgium.
+* Introduction to Graph Databases. Rug-B 2011, Berlin, Germany.
+
+==== Published papers
+
+* Survey of Graph Database Performance on the HPC Scalable Graph Analysis Benchmark. IWGD 2010. D. Dominguez-Sal, P. Urbn-Bayes, et all. (http://dl.acm.org/citation.cfm?id=1927590[link])
+* Mining Software Repositories. Computer Science Master Thesis. PUrbon. Jun 2009
+* Ontology Driven Database. ForumCIS 2007. RLozano, XPastor, PUrbon and Elozano.
+
+==== Organization and Program Commitee
+
+* FOSDEM Graph Processing Room. FOSDEM 2012-2014. Brussels, Belgium. (http://graphdevroom.org[link]).
+* NoSQL Matters Barcelona. 2012, 2013. Barcelona, Spain. (https://2012.nosql-matters.org/bcn/[link]).
+* Developer and organizer at Reunió Espanyola de Criptografia i Seguretat de la Inf. 2005-2006.
+
+== Other information
+
+* Open source contributor, blogger and member of different user groups.
+* Athlete and Duathlete with SCC-Berlin, 2012-Present. (Berlin), Athlete with CERRR, 2010-2011. (Igualada, Spain), Handbol Vilamajor, 1988-2000.
