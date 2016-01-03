@@ -4,7 +4,7 @@
 :Date:      03-01-2016
 :Revision:  1.0
 :doctitle:  Résumé
-:noheader:
+:source-highlighter: coderay
 
 [cols="1a,2a", frame="none", grid="none"]
 |===
@@ -23,6 +23,19 @@ Germany
 * _web_: http://www.purbon.com
 * _github_: http://github.com/purbon
 |===
+
+== Education
+
+[source,json]
+----
+{
+  "2009": [ "MSc in Computer Science by Universitat Oberta de Catalunya",
+  "Formal argumentation by Universitat Oberta de Catalunya"
+    ],
+  "2003": "E-Commerce Security. Universitat d’estiu de Sabadell",
+  "2000": "Secondary school Technical speciality, IES Giola"
+}
+----
 
 == I worked for
 
@@ -62,8 +75,9 @@ solutions to improve, and analyse, their production process. This projects inclu
 data modeling and analytics over some huge datasets.
 |===
 
+
 === Data Management Group - _Senior Software Engineer_
-==== Dept of Computer Architecture, Universitat Politècnica de Catalunya
+[small]#Dept of Computer Architecture, Universitat Politècnica de Catalunya#
 
 [frame="none", grid="none"]
 |===
@@ -74,7 +88,7 @@ a bibliographic search application on top of DEX. The main technologies involved
 |===
 
 === Unitat d’Informàtica Medica - _Senior Software Engineer_
-==== Fundació Clínic per a la Recerca Biomèdica
+[small]#Fundació Clínic per a la Recerca Biomèdica#
 
 [frame="none", grid="none"]
 |===
@@ -84,23 +98,17 @@ J2EE technologies and information semantic standards. As a member of UIM I was o
 with a heavy refactoring project, on this tasks we rebuild a knowledge management web site called OntoDDB.
 |===
 
-== Education
-
-* MSc in Computer Science by Universitat Oberta de Catalunya, 2009.
-* Formal argumentation by Universitat Oberta de Catalunya, Feb 2009.
-* E-Commerce Security. Universitat d’estiu de Sabadell. July 2003.
-* High school Technical speciality, IES Giola 2000.
-
-
 == Languages
 
-[cols="2", frame="none", grid="none"]
-|===
-| Catalan | Native
-| Spanish | Native
-| English | Fluent
-| Deutsche | Conversational
-|===
+[source,json]
+----
+{
+  "English": "Fluent",
+  "Deutsche" : "Conversation",
+  "Catalan" : "Native",
+  "Spanish": "Native"
+}
+----
 
 == Topics of Interest
 
@@ -126,6 +134,7 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 * Making sense of your data with the ELK, Jan 2015 Elasticsearch Meetup Barcelona, Spain. (http://www.meetup.com/Barcelona-Elastic-Fantastics/events/219060414/[link]).
 
 === 2010-2014
+
 * The graph processing atelier, Eurucamp 2014, Berlin Germany. (https://speakerdeck.com/purbon/the-graph-processing-atelier[link])
 * A simple hadoop scheduler. NoSQL Matters 2013, Cologne, Germany. (https://2014.nosql-matters.org/cgn/abstracts/#abstract_379886060[link]).
 * From Tables to Graph, The recsys use case. NoSQL Matters 2012, Cologne, Germany. (https://2012.nosql-matters.org/cgn/[link]) .
@@ -148,4 +157,4 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 == Other information
 
 * Open source contributor, blogger and member of different user groups.
-* Athlete and Duathlete with SCC-Berlin, 2012-Present. (Berlin), Athlete with CERRR, 2010-2011. (Igualada, Spain), Handbol Vilamajor, 1988-2000.
+* Athlete and Duathlete with SCC-Berlin, 2012-2015. (Berlin, Germany), Athlete with CERRR, 2010-2011. (Igualada, Spain), Handbol Vilamajor, 1988-2000.
