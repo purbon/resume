@@ -1,15 +1,10 @@
-////
-Urbon Pere
-===========
-Optional Author Name <pere.urbon@gmail.com>
-Optional 1.0, 03-01-2016
+= Résumé
 :Author:    Urbón Bayes, Pere
 :Email:     <pere.urbon@gmail.com>
 :Date:      03-01-2016
 :Revision:  1.0
-////
-
-== Urbon Bayes, Pere
+:doctitle:  Résumé
+:noheader:
 
 [cols="1a,2a", frame="none", grid="none"]
 |===
@@ -23,9 +18,10 @@ Germany
 |
 .Contact
 
-[%hardbreaks]
-_tel_: +49.157/81949910, _email_: pere.urbon@gmail.com
-http://www.purbon.com[_web_], http://github.com/purbon[_github_]
+* _tel_: +49.157/81949910
+* _email_: pere.urbon@gmail.com
+* _web_: http://www.purbon.com
+* _github_: http://github.com/purbon
 |===
 
 == I worked for
