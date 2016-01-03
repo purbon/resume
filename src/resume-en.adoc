@@ -4,24 +4,18 @@
 :Date:      03-01-2016
 :Revision:  1.0
 :doctitle:  Résumé
+:icons: font
 :source-highlighter: coderay
+:noheader:
+:notitle:
 
-[cols="1a,2a", frame="none", grid="none"]
+== Urbon-Bayes, Pere
+
+[cols="2", frame="none", grid="none"]
 |===
-|
-.Address
-
-[%hardbreaks]
-Wildenbruchstr 85
-12045 Berlin
-Germany
-|
-.Contact
-
-* _tel_: +49.157/81949910
-* _email_: pere.urbon@gmail.com
-* _web_: http://www.purbon.com
-* _github_: http://github.com/purbon
+2+| icon:location-arrow[location-arrow] Wildenbruchstr 85 12045 Berlin, Germany.
+| icon:phone[phone]  +49.157/81949910 | icon:envelope[envelope] pere.urbon@gmail.com
+| icon:connectdevelop[connectdevelop] http://www.purbon.com |icon:github[github] http://github.com/purbon
 |===
 
 == Education
@@ -39,7 +33,7 @@ Germany
 
 == I worked for
 
-=== Elasticsearch Gmbh - _Software Engineer_
+==== Elasticsearch Gmbh - _Software Engineer_
 
 [cols="2", frame="none", grid="none"]
 |===
@@ -47,7 +41,7 @@ Germany
 2+| foobar
 |===
 
-=== Fyber Gmbh - _Senior Software Engineer_
+==== Fyber Gmbh - _Senior Software Engineer_
 
 [cols="2", frame="none", grid="none"]
 |===
@@ -56,7 +50,7 @@ Germany
 Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
 |===
 
-=== Belectric IT Solutions Gmbh - _Software Architect_
+==== Belectric IT Solutions Gmbh - _Software Architect_
 
 [cols="2", frame="none", grid="none"]
 |===
@@ -66,7 +60,7 @@ large amount of data, and helping our planet to be more green. With special focu
 solutions to improve, and analyse, their production process. This projects include collaborations with top German Universities.
 |===
 
-=== Moviepilot Gmbh - _Senior Data Digester_
+==== Moviepilot Gmbh - _Senior Data Digester_
 
 [frame="none", grid="none"]
 |===
@@ -76,7 +70,7 @@ data modeling and analytics over some huge datasets.
 |===
 
 
-=== Data Management Group - _Senior Software Engineer_
+==== Data Management Group - _Senior Software Engineer_
 [small]#Dept of Computer Architecture, Universitat Politècnica de Catalunya#
 
 [frame="none", grid="none"]
@@ -87,7 +81,7 @@ the graph database paradigm, specifically DEX has got very optimal performance t
 a bibliographic search application on top of DEX. The main technologies involved in my work are Java, J2EE and Python.
 |===
 
-=== Unitat d’Informàtica Medica - _Senior Software Engineer_
+==== Unitat d’Informàtica Medica - _Senior Software Engineer_
 [small]#Fundació Clínic per a la Recerca Biomèdica#
 
 [frame="none", grid="none"]
