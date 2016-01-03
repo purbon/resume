@@ -26,11 +26,28 @@ Germany
 
 == I worked for
 
+=== Elasticsearch Gmbh - _Software Engineer_
+
+[cols="2", frame="none", grid="none"]
+|===
+|Berlin, Germany| November 2014 - Present
+2+| foobar
+|===
+
+=== Fyber Gmbh - _Senior Software Engineer_
+
+[cols="2", frame="none", grid="none"]
+|===
+|Berlin, Germany| June 2014 - November 2014
+2+| As a software engineer in the backend data team we were responsible of the data integrity, aggregations and reports for the rest of the company. 
+Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
+|===
+
 === Belectric IT Solutions Gmbh - _Software Architect_
 
 [cols="2", frame="none", grid="none"]
 |===
-|Jena, Germany| March 2012 - Present
+|Jena, Germany| March 2012 - June 2014
 2+| As a software engineer I’m de responsible of handcrafting new apps for and by the energy management society. Helping clients and companies deal with
 large amount of data, and helping our planet to be more green. With special focus on Smart Grid solutions, we provide solar energy companies with 
 solutions to improve, and analyse, their production process. This projects include collaborations with top German Universities.
