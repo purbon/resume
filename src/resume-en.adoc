@@ -114,8 +114,6 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 * OS: Linux (debian, ubuntu, redhat), Mac OS X.
 * IDE: Vim, Eclipse, IntelliJ IDEA, Visual Studio.
 
-<<<
-
 == Talks, Conferences and Contributions
 
 === 2015
@@ -128,7 +126,7 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 * Making sense of your data with the ELK, Jan 2015 Elasticsearch Meetup Barcelona, Spain. (http://www.meetup.com/Barcelona-Elastic-Fantastics/events/219060414/[link]).
 
 === 2010-2014
-
+* The graph processing atelier, Eurucamp 2014, Berlin Germany. (https://speakerdeck.com/purbon/the-graph-processing-atelier[link])
 * A simple hadoop scheduler. NoSQL Matters 2013, Cologne, Germany. (https://2014.nosql-matters.org/cgn/abstracts/#abstract_379886060[link]).
 * From Tables to Graph, The recsys use case. NoSQL Matters 2012, Cologne, Germany. (https://2012.nosql-matters.org/cgn/[link]) .
 * NoSQL it doesnt hurt and its fun. Jornades de PLL 2011, Barcelona, Spain. (http://jpl.cpl.upc.edu/x-jornades/conferencies-convidades/bases-de-dades-nosql[link]) .
