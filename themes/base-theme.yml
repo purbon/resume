@@ -24,13 +24,13 @@ literal_font_family: Courier
 heading_font_style: bold
 heading_h1_font_size: 24
 heading_h2_font_size: 18
-heading_h3_font_size: 16
-heading_h4_font_size: 14
-heading_h5_font_size: 12
-heading_h6_font_size: 10
+heading_h3_font_size: 12
+heading_h4_font_size: 10
+heading_h5_font_size: 8
+heading_h6_font_size: 8
 heading_line_height: 1.15
 heading_margin_top: 4
-heading_margin_bottom: 12
+heading_margin_bottom: 4
 title_page_align: center
 title_page_line_height: 1.15
 title_page_logo_top: 10%
@@ -82,7 +82,7 @@ sidebar_title_font_style: bold
 table_border_color: '000000'
 table_border_width: 0.5
 table_cell_padding: 2
-table_head_font_style: bold
+#table_head_font_style: bold
 thematic_break_border_color: 'EEEEEE'
 thematic_break_border_style: solid
 thematic_break_border_width: 0.5

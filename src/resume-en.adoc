@@ -23,25 +23,25 @@
 [source,json]
 ----
 {
-  "2009": [ "MSc in Computer Science by Universitat Oberta de Catalunya",
-  "Formal argumentation by Universitat Oberta de Catalunya"
-    ],
-  "2003": "E-Commerce Security. Universitat d’estiu de Sabadell",
-  "2000": "Secondary school Technical speciality, IES Giola"
+  "2009": "Master in Computer Science by Universitat Oberta de Catalunya",
 }
 ----
 
 == I worked for
 
-==== Elasticsearch Gmbh - _Software Engineer_
+=== Elasticsearch Gmbh - _Software Engineer_
 
 [cols="2", frame="none", grid="none"]
 |===
 |Berlin, Germany| November 2014 - Present
-2+| foobar
+2+| As a software engineer embedded in the logstash team I'm responsible of delivering new features, fixing issues, take care of the community in an right ecosystem of plugins and the core engine. I'm part of the trainers team, being promoted to lead trainer after successful delivering several trainings.
+
+I'm also able to help out in support, specially on issues escalation and customer calls.
+
+As part of the elastic team I've been able to deliver talks at 3 conferences, and several user groups, also one invited talk at CERN.
 |===
 
-==== Fyber Gmbh - _Senior Software Engineer_
+=== Fyber Gmbh - _Senior Software Engineer_
 
 [cols="2", frame="none", grid="none"]
 |===
@@ -50,7 +50,7 @@
 Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
 |===
 
-==== Belectric IT Solutions Gmbh - _Software Architect_
+=== Belectric IT Solutions Gmbh - _Software Architect_
 
 [cols="2", frame="none", grid="none"]
 |===
@@ -60,7 +60,7 @@ large amount of data, and helping our planet to be more green. With special focu
 solutions to improve, and analyse, their production process. This projects include collaborations with top German Universities.
 |===
 
-==== Moviepilot Gmbh - _Senior Data Digester_
+=== Moviepilot Gmbh - _Senior Data Digester_
 
 [frame="none", grid="none"]
 |===
@@ -69,8 +69,9 @@ solutions to improve, and analyse, their production process. This projects inclu
 data modeling and analytics over some huge datasets.
 |===
 
+<<<
 
-==== Data Management Group - _Senior Software Engineer_
+=== Data Management Group - _Senior Software Engineer_
 [small]#Dept of Computer Architecture, Universitat Politècnica de Catalunya#
 
 [frame="none", grid="none"]
@@ -81,7 +82,7 @@ the graph database paradigm, specifically DEX has got very optimal performance t
 a bibliographic search application on top of DEX. The main technologies involved in my work are Java, J2EE and Python.
 |===
 
-==== Unitat d’Informàtica Medica - _Senior Software Engineer_
+=== Unitat d’Informàtica Medica - _Senior Software Engineer_
 [small]#Fundació Clínic per a la Recerca Biomèdica#
 
 [frame="none", grid="none"]
@@ -92,27 +93,31 @@ J2EE technologies and information semantic standards. As a member of UIM I was o
 with a heavy refactoring project, on this tasks we rebuild a knowledge management web site called OntoDDB.
 |===
 
-== Languages
+=== Languages and Education
 
 [source,json]
 ----
-{
+"languages" : {
   "English": "Fluent",
-  "Deutsche" : "Conversation",
-  "Catalan" : "Native",
+  "Deutsche": "Conversation",
+  "Catalan": "Native",
   "Spanish": "Native"
-}
+},
+  "education" : {
+    "2009": "Formal argumentation by Universitat Oberta de Catalunya",
+    "2003": "E-Commerce Security. Universitat d’estiu de Sabadell",
+    "2000": "Secondary school Technical speciality, IES Giola"
+  }
 ----
 
 == Topics of Interest
 
 * Projects: Scrum, Kanban, UML, Team building.
-* Programming: Ruby, Java, Scala, Go, Rustlang.
+* Programming: Ruby, Java, Scala, Go, Rustlang, Git, Subversion.
 * Databases/NoSQL: MySQL, PostgreSQL, SQL Server, Elasticsearch, Neo4j, MongoDB, Redis, Cassandra.
 * Web stack: Sinatra, Ruby on Rails, JSP, Struts, HTML5, CoffeeScript, Backbone.js, JQuery, GWT, JSON, XML.
 * Processing stack: Hadoop, Sidekiq, Resque.
 * Geo Information systems: Leaflet.js, OpenGIS.
-* SCM: Git, Subversion.
 * OS: Linux (debian, ubuntu, redhat), Mac OS X.
 * IDE: Vim, Eclipse, IntelliJ IDEA, Visual Studio.
 
@@ -120,35 +125,35 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 
 === 2015
 
-* Hands on Elastic(Search). Librecon 2015, Santiago de Compostela, Spain. (http://www.librecon.io/conferencias/#taller-practico-sobre-elastic-search[link]).
-* Scaling Logstash, DevOps Meetup, Berlin, Germany. (http://www.meetup.com/blndevops/events/221953734/[link]).
-* Scaling Logstash: A Collection of War Stories. OSDC 2015, Berlin, Germany. (https://www.netways.de/?id=3020#c17318[link]).
-* Logstash, from theory to real life, Elasticsearch Meetup Berlin, Germany. (http://www.meetup.com/Search-UG-Berlin/events/219666153/[link]).
-* ELK, making sense of your data (not just for logs!), FOSDEM 2015, Brussels, Belgium. (https://archive.fosdem.org/2015/schedule/event/elk,_making_sense_of_your_data_not_just_for_logs!/[link]).
-* Making sense of your data with the ELK, Jan 2015 Elasticsearch Meetup Barcelona, Spain. (http://www.meetup.com/Barcelona-Elastic-Fantastics/events/219060414/[link]).
+* Hands on Elastic(Search). Librecon 2015, Santiago de Compostela, Spain. (http://www.librecon.io/conferencias/#taller-practico-sobre-elastic-search[link])
+* Scaling Logstash, DevOps Meetup, Berlin, Germany. (http://www.meetup.com/blndevops/events/221953734/[link])
+* Scaling Logstash: A Collection of War Stories. OSDC 2015, Berlin, Germany. (https://www.netways.de/?id=3020#c17318[link])
+* Logstash, from theory to real life, Elasticsearch Meetup Berlin, Germany. (http://www.meetup.com/Search-UG-Berlin/events/219666153/[link])
+* ELK, making sense of your data (not just for logs!), FOSDEM 2015, Brussels, Belgium. (https://archive.fosdem.org/2015/schedule/event/elk,_making_sense_of_your_data_not_just_for_logs!/[link])
+* Making sense of your data with the ELK, Jan 2015 Elastic Meetup Barcelona, Spain. (http://www.meetup.com/Barcelona-Elastic-Fantastics/events/219060414/[link])
 
 === 2010-2014
 
 * The graph processing atelier, Eurucamp 2014, Berlin Germany. (https://speakerdeck.com/purbon/the-graph-processing-atelier[link])
-* A simple hadoop scheduler. NoSQL Matters 2013, Cologne, Germany. (https://2014.nosql-matters.org/cgn/abstracts/#abstract_379886060[link]).
-* From Tables to Graph, The recsys use case. NoSQL Matters 2012, Cologne, Germany. (https://2012.nosql-matters.org/cgn/[link]) .
-* NoSQL it doesnt hurt and its fun. Jornades de PLL 2011, Barcelona, Spain. (http://jpl.cpl.upc.edu/x-jornades/conferencies-convidades/bases-de-dades-nosql[link]) .
-* Graph databases, The web of data storage. FOSDEM 2011, Brussels, Belgium.
-* Introduction to Graph Databases. Rug-B 2011, Berlin, Germany.
+* A simple hadoop scheduler. NoSQL Matters 2013, Cologne, Germany. (https://2014.nosql-matters.org/cgn/abstracts/#abstract_379886060[link])
+* From Tables to Graph, The recsys use case. NoSQL Matters 2012, Cologne, Germany. (https://2012.nosql-matters.org/cgn/[link])
+* NoSQL it doesnt hurt and its fun. Jornades de PLL 2011, Barcelona, Spain. (http://jpl.cpl.upc.edu/x-jornades/conferencies-convidades/bases-de-dades-nosql[link])
+* Graph databases, The web of data storage. FOSDEM 2011, Brussels, Belgium
+* Introduction to Graph Databases. Rug-B 2011, Berlin, Germany
 
 ==== Published papers
 
 * Survey of Graph Database Performance on the HPC Scalable Graph Analysis Benchmark. IWGD 2010. D. Dominguez-Sal, P. Urbn-Bayes, et all. (http://dl.acm.org/citation.cfm?id=1927590[link])
 * Mining Software Repositories. Computer Science Master Thesis. PUrbon. Jun 2009
-* Ontology Driven Database. ForumCIS 2007. RLozano, XPastor, PUrbon and Elozano.
+* Ontology Driven Database. ForumCIS 2007. RLozano, XPastor, PUrbon and Elozano
 
 ==== Organization and Program Commitee
 
-* FOSDEM Graph Processing Room. FOSDEM 2012-2014. Brussels, Belgium. (http://graphdevroom.org[link]).
-* NoSQL Matters Barcelona. 2012, 2013. Barcelona, Spain. (https://2012.nosql-matters.org/bcn/[link]).
-* Developer and organizer at Reunió Espanyola de Criptografia i Seguretat de la Inf. 2005-2006.
+* FOSDEM Graph Processing Room. FOSDEM 2012-2014. Brussels, Belgium. (http://graphdevroom.org[link])
+* NoSQL Matters Barcelona. 2012, 2013. Barcelona, Spain. (https://2012.nosql-matters.org/bcn/[link])
+* Developer and organizer at Reunió Espanyola de Criptografia i Seguretat de la Inf. 2005-2006
 
 == Other information
 
-* Open source contributor, blogger and member of different user groups.
-* Athlete and Duathlete with SCC-Berlin, 2012-2015. (Berlin, Germany), Athlete with CERRR, 2010-2011. (Igualada, Spain), Handbol Vilamajor, 1988-2000.
+* Open source contributor, blogger and member of different user groups
+* Athlete and Duathlete with SCC-Berlin, 2012-2015. (Berlin, Germany), Athlete with CERRR, 2010-2011. (Igualada, Spain), Handbol Vilamajor, 1988-2000
