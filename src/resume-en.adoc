@@ -34,11 +34,11 @@
 [cols="2", frame="none", grid="none"]
 |===
 |Berlin, Germany| November 2014 - Present
-2+| As a software engineer embedded in the logstash team I'm responsible of delivering new features, fixing issues, take care of the community in an right ecosystem of plugins and the core engine. I'm part of the trainers team, being promoted to lead trainer after successful delivering several trainings.
+2+| As a software engineer embedded in the logstash team I'm responsible of delivering new features, fixing issues, take care of the community, in an rich ecosystem of plugins, and the core engine. I'm part of the trainers team, being promoted to lead trainer after successful delivering several trainings.
 
 I'm also able to help out in support, specially on issues escalation and customer calls.
 
-As part of the elastic team I've been able to deliver talks at 3 conferences, and several user groups, also one invited talk at CERN.
+As part of the elastic team I've been able to deliver talks at 5 conferences, and several user groups, also one invited talk at CERN.
 |===
 
 === Fyber Gmbh - _Senior Software Engineer_
