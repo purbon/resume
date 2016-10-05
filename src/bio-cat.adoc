@@ -1,0 +1,37 @@
+= Bio
+:Author:    Urbón Bayes, Pere
+:Email:     <pere.urbon@gmail.com>
+:Date:      05-10-2016
+:Revision:  1.0
+:doctitle:  Bio
+:icons: font
+:source-highlighter: coderay
+:noheader:
+:notitle:
+
+[cols="2", frame="none", grid="none"]
+|===
+2+| Urbón Bayes, Pere
+2+| icon:location-arrow[location-arrow] Wildenbruchstr 85 12045 Berlin, Germany.
+| icon:phone[phone]  +49.157/81949910 | icon:envelope[envelope] pere.urbon@gmail.com
+| icon:connectdevelop[connectdevelop] http://www.purbon.com |icon:github[github] http://github.com/purbon
+|===
+
+== Biografia
+
+Soc un enginyer de dades i programari amb una especial dedicació al R&D+i i al programari lliure. Des del Gener de 2015, quan el professor
+http://www.ccd.uab.es/~josep/index.php3[Josep Rifà] em va donar la oportunitat de col·laborar amb el departament d'enginyeria de la informació, on vaig participar
+en el desenvolupament de nous codis Z2Z4, l'interès pel la creació de solucions innovadores no ha parat de créixer.
+
+Durant els següents sis anys, vaig col·laborar amb l'Hospital Clínic de Barcelona, professor https://webgrec.ub.edu/webpages/personal/cas/000486_xpastor.ub.edu.html[X.Pastor],
+en el desenvolupament d'una nova historia clínica orientada al problema de salut, i amb el Departament d'Arquitectura de Computadors de la UPC, professor http://directori.upc.edu/directori/dadesPersona.jsp?id=1002223[J.Larriba] 
+on vaig formar part del projecte DEX, una nova base de dades NoSQL en forma de graf, molt útil per anàlisis de dades en xarxa.
+
+L'any 2011 comença la meva aventura a Berlin, Alemanya. La meva trajectòria a terres Alemanyes arrenca amb un projecte per http://moviepilot.com/[Moviepilot Gmbh],
+on juntament amb el http://www.dima.tu-berlin.de/[DIMA] de la TU Berlin, creem un sistema de recomanació avançat per als afeccionats al cinema. L'any 2012 enceto 
+un nou projecte amb l'empresa http://www.belectric.com[Belectric Gmbh], on juntament amb la https://www.fau.eu/[Universitat d'Erlangen (FAU)], creem un 
+sistema avançat de smart grid per a la producció d'energia solar. El meu últim projecte és amb https://www.elastic.co/[Elastisearch B.V], l'empresa que desenvolupa el 
+popular producte del mateix nom, formant part de l'equip encarregat de les eines ETL, optimitzem el procés de les dades, amb especial atenció als múltiples origens i al rendiment.
+
+Durant la meva trajectòria, he publicat diversos articles d'investigació i divulgació, participant també en múltiples conferencies i trobades internacionals
+relacionades amb la temàtica.
