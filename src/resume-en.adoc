@@ -1,8 +1,8 @@
 = Résumé
 :Author:    Urbón Bayes, Pere
 :Email:     <pere.urbon@gmail.com>
-:Date:      03-01-2016
-:Revision:  1.0
+:Date:      05-10-2016
+:Revision:  1.1
 :doctitle:  Résumé
 :icons: font
 :source-highlighter: coderay
@@ -33,12 +33,12 @@
 
 [cols="2", frame="none", grid="none"]
 |===
-|Berlin, Germany| November 2014 - Present
-2+| As a software engineer embedded in the logstash team I'm responsible of delivering new features, fixing issues, take care of the community, in an rich ecosystem of plugins, and the core engine. I'm part of the trainers team, being promoted to lead trainer after successful delivering several trainings.
+|Berlin, Germany| November 2014 - October 2016
+2+| As a software engineer embedded in the logstash team I'm responsible of delivering new features, fixing issues, take care of the community, in the rich ecosystem of plugins, and the core engine. I'm part of the trainers team, being promoted to lead trainer after successful delivering several trainings.
 
 I'm also able to help out in support, specially on issues escalation and customer calls.
 
-As part of the elastic team I've been able to deliver talks at 5 conferences, and several user groups, also one invited talk at CERN.
+During my journey I've been able to deliver talks at 7 conferences, and several user groups, also one invited talk at CERN.
 |===
 
 === Fyber Gmbh - _Senior Software Engineer_
@@ -55,7 +55,7 @@ Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
 [cols="2", frame="none", grid="none"]
 |===
 |Jena, Germany| March 2012 - June 2014
-2+| As a software engineer I’m de responsible of handcrafting new apps for and by the energy management society. Helping clients and companies deal with
+2+| As an architect and engineer I’m the responsible of handcrafting new apps for and by the energy management society. Helping clients and companies deal with
 large amount of data, and helping our planet to be more green. With special focus on Smart Grid solutions, we provide solar energy companies with 
 solutions to improve, and analyse, their production process. This projects include collaborations with top German Universities.
 |===
@@ -123,7 +123,14 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 
 == Talks, Conferences and Contributions
 
-=== 2015
+=== 2016
+
+* Parenting Processes. Froscon 2016, Sankt Augustin, Germany. (https://programm.froscon.de/2016/events/1727.html[link])
+* Let's validate your releases with JRuby, RSpec & SSH. Ruby Meetup, Berlin, Germany. (http://www.rug-b.de/topics/let-s-validate-your-releases-with-jruby-rspec-and-ssh[link])
+* What has been cooking at Elastic. Search Meetup, Berlin, Germany. (http://www.meetup.com/Search-UG-Berlin/events/230166132/[link])
+* Ingesting Logs with style. OSDC 2016, Berlin Germany. (https://www.netways.de/en/events_trainings/osdc/archive/osdc2016/[link])
+
+=== 2010-2015
 
 * Hands on Elastic(Search). Librecon 2015, Santiago de Compostela, Spain. (http://www.librecon.io/conferencias/#taller-practico-sobre-elastic-search[link])
 * Scaling Logstash, DevOps Meetup, Berlin, Germany. (http://www.meetup.com/blndevops/events/221953734/[link])
@@ -131,9 +138,6 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 * Logstash, from theory to real life, Elasticsearch Meetup Berlin, Germany. (http://www.meetup.com/Search-UG-Berlin/events/219666153/[link])
 * ELK, making sense of your data (not just for logs!), FOSDEM 2015, Brussels, Belgium. (https://archive.fosdem.org/2015/schedule/event/elk,_making_sense_of_your_data_not_just_for_logs!/[link])
 * Making sense of your data with the ELK, Jan 2015 Elastic Meetup Barcelona, Spain. (http://www.meetup.com/Barcelona-Elastic-Fantastics/events/219060414/[link])
-
-=== 2010-2014
-
 * The graph processing atelier, Eurucamp 2014, Berlin Germany. (https://speakerdeck.com/purbon/the-graph-processing-atelier[link])
 * A simple hadoop scheduler. NoSQL Matters 2013, Cologne, Germany. (https://2014.nosql-matters.org/cgn/abstracts/#abstract_379886060[link])
 * From Tables to Graph, The recsys use case. NoSQL Matters 2012, Cologne, Germany. (https://2012.nosql-matters.org/cgn/[link])
@@ -141,9 +145,10 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 * Graph databases, The web of data storage. FOSDEM 2011, Brussels, Belgium
 * Introduction to Graph Databases. Rug-B 2011, Berlin, Germany
 
-==== Published papers
+==== Publications
 
-* Survey of Graph Database Performance on the HPC Scalable Graph Analysis Benchmark. IWGD 2010. D. Dominguez-Sal, P. Urbn-Bayes, et all. (http://dl.acm.org/citation.cfm?id=1927590[link])
+* Logfile-Analyse: Even und Log Daten aufbereiten mit Logstash, Heise iX: Magazin für professionelle informationstechnik. I. Drost, P. Urbon-Bayes. (http://www.heise.de/ix/inhalt/2016/10/132/[link])
+* Survey of Graph Database Performance on the HPC Scalable Graph Analysis Benchmark. IWGD 2010. D. Dominguez-Sal, P. Urbon-Bayes, et all. (http://dl.acm.org/citation.cfm?id=1927590[link])
 * Mining Software Repositories. Computer Science Master Thesis. PUrbon. Jun 2009
 * Ontology Driven Database. ForumCIS 2007. RLozano, XPastor, PUrbon and Elozano
 
@@ -155,5 +160,4 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 
 == Other information
 
-* Open source contributor, blogger and member of different user groups
 * Athlete and Duathlete with SCC-Berlin, 2012-2015. (Berlin, Germany), Athlete with CERRR, 2010-2011. (Igualada, Spain), Handbol Vilamajor, 1988-2000
