@@ -19,7 +19,7 @@
 
 == Biografia
 
-Soc un enginyer de dades i programari amb una especial dedicació al R&D+i i al programari lliure. Des del Gener de 2015, quan el professor
+Soc un enginyer de dades i programari amb una especial dedicació al R&D+i i al programari lliure. Des del Gener de 2005, quan el professor
 http://www.ccd.uab.es/~josep/index.php3[Josep Rifà] em va donar la oportunitat de col·laborar amb el departament d'enginyeria de la informació, on vaig participar
 en el desenvolupament de nous codis Z2Z4, l'interès pel la creació de solucions innovadores no ha parat de créixer.
 
