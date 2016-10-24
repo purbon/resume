@@ -29,6 +29,22 @@
 
 == I worked for
 
+=== Freelance - _Software and Data Engineer Consultant_
+
+[cols="2", frame="none", grid="none"]
+|===
+|Berlin, Germany| October 2016 - Present
+2+| As a Software and Data Engineer Consultant I help my clients setup proper data engineering practices, this include help for data engineering architecture
+and deployment, consultation and education on best practices and software development.
+
+
+Projects: 
+
+* Eurecat, Centre Tecnològic de Catalunya: Helping the Big Data unit as Data Architect, coordinating the technical aspects for private projects. Also pushing
+forward an internal big data cloud with proper integrations with Ansible, Open Stack, Elasticsearch and Hortonworks Data Platform.
+
+|===
+
 === Elasticsearch Gmbh - _Software Engineer_
 
 [cols="2", frame="none", grid="none"]
@@ -50,6 +66,8 @@ During my journey I've been able to deliver talks at 7 conferences, and several 
 Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
 |===
 
+<<<
+
 === Belectric IT Solutions Gmbh - _Software Architect_
 
 [cols="2", frame="none", grid="none"]
@@ -68,8 +86,6 @@ solutions to improve, and analyse, their production process. This projects inclu
 2+| As a senior data digester I’m involved into every NoSQL use case detected inside the company. Specialized on Graph databases, developing algorithms and 
 data modeling and analytics over some huge datasets.
 |===
-
-<<<
 
 === Data Management Group - _Senior Software Engineer_
 [small]#Dept of Computer Architecture, Universitat Politècnica de Catalunya#
@@ -113,10 +129,10 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 == Topics of Interest
 
 * Projects: Scrum, Kanban, UML, Team building.
-* Programming: Ruby, Java, Scala, Go, Rustlang, Git, Subversion.
-* Databases/NoSQL: MySQL, PostgreSQL, SQL Server, Elasticsearch, Neo4j, MongoDB, Redis, Cassandra.
-* Web stack: Sinatra, Ruby on Rails, JSP, Struts, HTML5, CoffeeScript, Backbone.js, JQuery, GWT, JSON, XML.
-* Processing stack: Hadoop, Sidekiq, Resque.
+* Programming: Ruby, Java, Scala, Go, Git, Subversion.
+* Databases/NoSQL: MySQL, Elasticsearch, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server, Cassandra.
+* Web stack: Sinatra, Ruby on Rails, HTML5, CoffeeScript, JSP, Struts, , Backbone.js, JQuery.
+* Processing stack: Hadoop, Sidekiq, Resque, LogStash, Kibana.
 * Geo Information systems: Leaflet.js, OpenGIS.
 * OS: Linux (debian, ubuntu, redhat), Mac OS X.
 * IDE: Vim, Eclipse, IntelliJ IDEA, Visual Studio.
