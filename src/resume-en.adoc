@@ -72,8 +72,6 @@ During my journey I've been able to deliver talks at 7 conferences, and several 
 Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
 |===
 
-<<<
-
 === Belectric IT Solutions Gmbh - _Software Architect_
 
 [cols="2", frame="none", grid="none"]
@@ -114,6 +112,8 @@ a bibliographic search application on top of DEX. The main technologies involved
 J2EE technologies and information semantic standards. As a member of UIM I was on early and late ( programming and test ) iterations. Also I was involved 
 with a heavy refactoring project, on this tasks we rebuild a knowledge management web site called OntoDDB.
 |===
+
+<<<
 
 === Languages and Education
 
