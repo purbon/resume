@@ -40,11 +40,13 @@ and deployment, consultation and education on best practices and software develo
 
 Projects: 
 
-* Eurecat, Centre Tecnològic de Catalunya: Helping the Big Data unit as Data Architect, coordinating the technical aspects for private projects. Also pushing
+* _Eurecat, Centre Tecnològic de Catalunya_: Helping the Big Data unit as Data Architect, coordinating the technical aspects for private projects. Also pushing
 forward an internal big data cloud with proper integrations with Ansible, Open Stack, Elasticsearch and Hortonworks Data Platform.
-* Disney Research: Revamp of an internal RDF Ontology Storage API PoC to make it production ready, this included a complete code refactoring, development of
+
+* _The Walt Disney Company, Disney Research Zurich_: Revamp of an internal RDF Ontology Storage API PoC to make it production ready, this included a complete code refactoring, development of
 test framework, introduction of best practices such as single responsibility, code deduplication, etc.
-* Eurecat, Centre Tecnològic de Catalunya: Data architecture consultancy to several external clients, this projects include an assessment of the current situation plus 
+
+* _Eurecat, Centre Tecnològic de Catalunya_: Data architecture consultancy to several external clients, this projects include an assessment of the current situation plus 
 the development of a new architecture that fit the current and feature business needs at scale.
 
 |===
