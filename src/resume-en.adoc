@@ -18,25 +18,15 @@
 | icon:connectdevelop[connectdevelop] http://www.purbon.com |icon:github[github] http://github.com/purbon
 |===
 
-== Education
-
-[source,json]
-----
-{
-  "2009": "Master in Computer Science by Universitat Oberta de Catalunya",
-}
-----
-
 == I worked for
 
-=== Freelance - _Software and Data Engineer Consultant_
+=== Freelance - _Software Architect, Search and Data Engineering Consultant_
 
 [cols="2", frame="none", grid="none"]
 |===
 |Berlin, Germany| October 2016 - Present
-2+| As a Software and Data Engineer Consultant I help my clients setup proper data engineering practices, this include help for data engineering architecture
-and deployment, consultation and education on best practices and software development.
-
+2+| As a Software Architect on Search and Data Engineering I help my clients setup proper data engineering practices, this include help defining the data engineering architecture, the deployment on cloud,
+on premises or hybrid, consulting on specific project needs, setting up educational workshops, setting best practices and software development.
 
 Projects: 
 
@@ -46,9 +36,11 @@ forward an internal big data cloud with proper integrations with Ansible, Open S
 * _The Walt Disney Company, Disney Research Zurich_: Revamp of an internal RDF Ontology Storage API PoC to make it production ready, this included a complete code refactoring, development of
 test framework, introduction of best practices such as single responsibility, code deduplication, etc.
 
-* _Eurecat, Centre Tecnològic de Catalunya_: Data architecture consultancy to several external clients, this projects include an assessment of the current situation plus 
-the development of a new architecture that fit the current and feature business needs at scale.
+* _Eurecat, Centre Tecnològic de Catalunya_: As a Data Architect lead i participate in many internal and external projects where the definition of a data platform is a requirement, this projects goes
+from assessments and improvements to the creation of new architectures to scale current needs or for new projects. I also participate in the planning and execution of EU, state and regional research projects in the big data space.
 
+* _Springer Nature Gmbh_: As a Tech Lead and Search Chapter Lead I help the teams in the Berlin office build and deliver projects at scale focusing on great data engineering practices and enabling and coaching the organization 
+on best practices to build highly personalized search experiences.
 |===
 
 === Elasticsearch Gmbh - _Software Engineer_
@@ -77,7 +69,7 @@ Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
 [cols="2", frame="none", grid="none"]
 |===
 |Jena, Germany| March 2012 - June 2014
-2+| As an architect and engineer I’m the responsible of handcrafting new apps for and by the energy management society. Helping clients and companies deal with
+2+| As an architect and engineer lead I’m the responsible of handcrafting new apps for and by the energy management society. Helping clients and companies deal with
 large amount of data, and helping our planet to be more green. With special focus on Smart Grid solutions, we provide solar energy companies with 
 solutions to improve, and analyse, their production process. This projects include collaborations with top German Universities.
 |===
@@ -102,20 +94,16 @@ the graph database paradigm, specifically DEX has got very optimal performance t
 a bibliographic search application on top of DEX. The main technologies involved in my work are Java, J2EE and Python.
 |===
 
-=== Unitat d’Informàtica Medica - _Senior Software Engineer_
-[small]#Fundació Clínic per a la Recerca Biomèdica#
+=== Education
 
-[frame="none", grid="none"]
-|===
-|Barcelona, Spain | June 2007 - May 2008
-2+| As a Software Enginner I was involved on HCPP ( Problem oriented electronic healtcare registry ) development. This project was mainly developed using 
-J2EE technologies and information semantic standards. As a member of UIM I was on early and late ( programming and test ) iterations. Also I was involved 
-with a heavy refactoring project, on this tasks we rebuild a knowledge management web site called OntoDDB.
-|===
+[source,json]
+----
+{
+  "2009": "Master in Computer Science by Universitat Oberta de Catalunya",
+}
+----
 
-<<<
-
-=== Languages and Education
+=== Languages and education
 
 [source,json]
 ----
@@ -134,16 +122,25 @@ with a heavy refactoring project, on this tasks we rebuild a knowledge managemen
 
 == Topics of Interest
 
-* Projects: Scrum, Kanban, UML, Team building.
 * Programming: Ruby, Java, Scala, Go, Git, Subversion.
 * Databases/NoSQL: MySQL, Elasticsearch, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server, Cassandra.
-* Web stack: Sinatra, Ruby on Rails, HTML5, CoffeeScript, JSP, Struts, , Backbone.js, JQuery.
-* Processing stack: Hadoop, Sidekiq, Resque, LogStash, Kibana.
-* Geo Information systems: Leaflet.js, OpenGIS.
+* Web stack: Sinatra, Ruby on Rails, HTML5, CoffeeScript, JQuery.
+* Processing stack: Spark, Hadoop, Apache Nifi, Akka, Akka Streams, LogStash, Sidekiq, Resque.
+* Analytics: Tableu, Pentaho, Grafana, Kibana.
+* Geo Information systems: Leaflet.js, Geoserver, OpenGIS.
+* Devops: Ansible, OpenStack, AWS, GoCD, Jenkins, Cloud Foundry, Docker.
+* Projects: Scrum, Kanban, UML, Jira, Team building.
 * OS: Linux (debian, ubuntu, redhat), Mac OS X.
 * IDE: Vim, Eclipse, IntelliJ IDEA, Visual Studio.
 
 == Talks, Conferences and Contributions
+
+=== 2017
+
+* Back to the future: Cap el futur de l'enginyeria de dades. Big data congress 2017. Barcelona, Spain. (https://bigdatacongress.barcelona/ponents/pere-urbon/[link])
+* The Quantum Mechanics of Data Pipelines. Codemotion 2017. Berlin, Germany. (https://berlin2017.codemotionworld.com/speaker/3295/[link])
+* Data Engineering without walls. Code talks 2017. Hamburg, Germany. (https://www.codetalks.de/de/2017/programm/data-engineering-without-walls[link])
+* The Quantum Mechanics of Data Pipelines. Bed-Con 2017. Berlin, Germany. (http://bed-con.org/2017/talks/The-quantum-mechanics-of-data-pipelines[link])
 
 === 2016
 
