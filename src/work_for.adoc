@@ -1,8 +1,21 @@
+=== Confluent Inc - _Senior Solutions Architect, Professional Services team_
+
+[cols="2", frame="none", grid="none"]
+|===
+|Berlin, Germany| October 2018 - Present
+2+| As part of the Services organisation I have participated deploying, troubleshooting
+and scaling and architecting several Confluent Platform deployment at top companies
+in Germany, Spain and Switzerland.
+
+The activities ranges from delivering two days workshops to long term engagements focused
+on best practises for deploying the Confluent Streaming platform based on Apache Kafka.
+|===
+
 === Freelance - _Software Architect, Search and Data Engineering Consultant_
 
 [cols="2", frame="none", grid="none"]
 |===
-|Berlin, Germany| October 2016 - Present
+|Berlin, Germany| October 2016 - September 2018
 2+| As a Software Architect on Search and Data Engineering I help my clients setup proper data engineering practices, this include help defining the data engineering architecture, the deployment on cloud,
 on premises or hybrid, consulting on specific project needs, setting up educational workshops, setting best practices and software development.
 
@@ -14,17 +27,12 @@ Projects samples:
 
 * Leading a cross functional team of software engineers, data engineers and scientist building data centric solutions.
 
-* Build state of the art search solutions from scratch.
-
-* Improve current search projects with special focus on relevancy.
-
-* Building semantic solutions based on state of the art Ontology libraries.
+* Build state of the art search solutions.
 
 * Give educational workshops on topics such as Search and Data Engineering.
 
-
 |===
-
+<<<<
 === Elasticsearch Gmbh - _Software Engineer_
 
 [cols="2", frame="none", grid="none"]
@@ -37,14 +45,12 @@ I'm also able to help out in support, specially on issues escalation and custome
 During my journey I've been able to deliver talks at 7 conferences, and several user groups, also one invited talk at CERN.
 |===
 
-<<<
-
 === Fyber Gmbh - _Senior Software Engineer_
 
 [cols="2", frame="none", grid="none"]
 |===
 |Berlin, Germany| June 2014 - November 2014
-2+| As a software engineer in the backend data team we were responsible of the data integrity, aggregations and reports for the rest of the company. 
+2+| As a software engineer in the backend data team we were responsible of the data integrity, aggregations and reports for the rest of the company.
 Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
 |===
 
@@ -54,7 +60,7 @@ Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
 |===
 |Jena, Germany| March 2012 - June 2014
 2+| As an architect and engineer lead I’m the responsible of handcrafting new apps for and by the energy management society. Helping clients and companies deal with
-large amount of data, and helping our planet to be more green. With special focus on Smart Grid solutions, we provide solar energy companies with 
+large amount of data, and helping our planet to be more green. With special focus on Smart Grid solutions, we provide solar energy companies with
 solutions to improve, and analyse, their production process. This projects include collaborations with top German Universities.
 |===
 
@@ -63,7 +69,7 @@ solutions to improve, and analyse, their production process. This projects inclu
 [frame="none", grid="none"]
 |===
 |Berlin, Germany| March 2011 - Feb 2012
-2+| As a senior data digester I’m involved into every NoSQL use case detected inside the company. Specialized on Graph databases, developing algorithms and 
+2+| As a senior data digester I’m involved into every NoSQL use case detected inside the company. Specialized on Graph databases, developing algorithms and
 data modeling and analytics over some huge datasets.
 |===
 
@@ -74,6 +80,6 @@ data modeling and analytics over some huge datasets.
 |===
 |Barcelona, Spain | May 2008 - Dec 2010
 2+| As a DEX team member I’m the main developer taking on the evolution of the new visual management tool set. DEX is a new generation of database following
-the graph database paradigm, specifically DEX has got very optimal performance times with database of TB. Also I’m in charge of the maintenance of Bibex, 
+the graph database paradigm, specifically DEX has got very optimal performance times with database of TB. Also I’m in charge of the maintenance of Bibex,
 a bibliographic search application on top of DEX. The main technologies involved in my work are Java, J2EE and Python.
 |===

@@ -22,6 +22,8 @@
 
 include::work_for.adoc[]
 
+<<<<
+
 === Education
 
 [source,json]
@@ -31,7 +33,7 @@ include::work_for.adoc[]
 }
 ----
 
-=== Languages and education
+=== Languages
 
 [source,json]
 ----
@@ -40,51 +42,33 @@ include::work_for.adoc[]
   "Deutsche": "Conversation",
   "Catalan": "Native",
   "Spanish": "Native"
-},
-  "education" : {
-    "2009": "Formal argumentation by Universitat Oberta de Catalunya",
-    "2003": "E-Commerce Security. Universitat d’estiu de Sabadell",
-    "2000": "Secondary school Technical speciality, IES Giola"
-  }
+}
 ----
 
 == Topics of Interest
 
 * Programming: Ruby, Java, Scala, Go, Git, Subversion.
-* Databases/NoSQL: MySQL, Elasticsearch, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server, Cassandra.
-* Web stack: Sinatra, Ruby on Rails, HTML5, CoffeeScript, JQuery.
-* Data and Analytics stack: Spark, Hadoop, Apache Nifi, Akka, Akka Streams, LogStash, Sidekiq, Hortonworks. Tableu, Pentaho, Grafana, Kibana.
-* Geo Information systems: Leaflet.js, Geoserver, OpenGIS.
-* Devops: Ansible, OpenStack, AWS, GoCD, Jenkins, Cloud Foundry, Docker.
-* Projects: Scrum, Kanban, UML, Jira, Team building.
-* IDE: Vim, Eclipse, IntelliJ IDEA, Visual Studio.
+* Databases/NoSQL: MySQL, ELK stack, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server, Cassandra.
+* Web stack: Micronaut.io, PlayFramework, Ruby on Rails, HTML5, CoffeeScript, JQuery.
+* Data and Analytics stack: Spark, Hadoop, Apache Nifi, Akka, Akka Streams, Hortonworks. Tableu, Pentaho, Grafana, Kibana.
+* Streaming Platforms: Confluent Platform / Apache Kafka.
+* Devops: Ansible, OpenStack, Terraform, AWS, GCP, GoCD, Jenkins, Cloud Foundry, Kubernetes, Docker.
+* Projects: Scrum, Kanban, SAFe, UML, Jira, Team building.
 
 == Talks, Conferences and Contributions
 
-=== 2017
+During the years I have delivered many talks in Meetups and Conferences across Europe.
+The slides can be found (https://speakerdeck.com/purbon[here]) and (https://github.com/purbon/slides-meetups-and-confs[here]).
 
-* Back to the future: Cap el futur de l'enginyeria de dades. Big data congress 2017. Barcelona, Spain. (https://bigdatacongress.barcelona/ponents/pere-urbon/[link])
-* The Quantum Mechanics of Data Pipelines. Codemotion 2017. Berlin, Germany. (https://berlin2017.codemotionworld.com/speaker/3295/[link])
-* Data Engineering without walls. Code talks 2017. Hamburg, Germany. (https://www.codetalks.de/de/2017/programm/data-engineering-without-walls[link])
-* The Quantum Mechanics of Data Pipelines. Bed-Con 2017. Berlin, Germany. (http://bed-con.org/2017/talks/The-quantum-mechanics-of-data-pipelines[link])
-
-=== 2016
-
-* Parenting Processes. Froscon 2016, Sankt Augustin, Germany. (https://programm.froscon.de/2016/events/1727.html[link])
-* Let's validate your releases with JRuby, RSpec & SSH. Ruby Meetup, Berlin, Germany. (http://www.rug-b.de/topics/let-s-validate-your-releases-with-jruby-rspec-and-ssh[link])
-* What has been cooking at Elastic. Search Meetup, Berlin, Germany. (http://www.meetup.com/Search-UG-Berlin/events/230166132/[link])
-* Ingesting Logs with style. OSDC 2016, Berlin Germany. (https://www.netways.de/en/events_trainings/osdc/archive/osdc2016/[link])
-
-==== Publications
+=== Publications
 
 * Logfile-Analyse: Even und Log Daten aufbereiten mit Logstash, Heise iX: Magazin für professionelle informationstechnik. I. Drost, P. Urbon-Bayes. (http://www.heise.de/ix/inhalt/2016/10/132/[link])
 * Survey of Graph Database Performance on the HPC Scalable Graph Analysis Benchmark. IWGD 2010. D. Dominguez-Sal, P. Urbon-Bayes, et all. (http://dl.acm.org/citation.cfm?id=1927590[link])
 * Ontology Driven Database. ForumCIS 2007. RLozano, XPastor, PUrbon and Elozano
 
-==== Organization and Program Commitee
+=== Organization and Program Commitee
 
 * FOSDEM Graph Processing Room. FOSDEM 2012-2014. Brussels, Belgium. (http://graphdevroom.org[link])
 * NoSQL Matters Barcelona. 2012, 2013. Barcelona, Spain. (https://2012.nosql-matters.org/bcn/[link])
 
-Check http://purbon.com/resume.html for an extended version of this resume, including a full list of talks, conferences and contributions.
-
+For an extended version of this resume, including a full list of talks, conferences and contributions please contact me.
