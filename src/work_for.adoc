@@ -3,12 +3,14 @@
 [cols="2", frame="none", grid="none"]
 |===
 |Berlin, Germany| October 2018 - Present
-2+| As part of the Services organisation I have participated deploying, troubleshooting
-and scaling and architecting several Confluent Platform deployment at top companies
-in Germany, Spain and Switzerland.
+2+| As part of the Services organisation I have participated deploying, troubleshooting,
+ scaling and architecting several Confluent Platform deployment at top companies
+in EMEA.
 
-The activities ranges from delivering two days workshops to long term engagements focused
-on best practises for deploying the Confluent Streaming platform based on Apache Kafka.
+The activities range from Architecture Workshops, Capacity Planning, Troubleshooting as well
+as development of custom Kafka Streams applications (for high scale use cases), specialized Kafka Connectors and Self Service setups
+among others.
+
 |===
 
 === Freelance - _Software Architect, Search and Data Engineering Consultant_
