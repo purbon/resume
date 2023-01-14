@@ -11,7 +11,9 @@ The activities range from Architecture Workshops, Capacity Planning, Troubleshoo
 as development of custom Kafka Streams applications (for high scale use cases), specialized Kafka Connectors and Self Service setups
 among others.
 
+
 * Kafka Connect and CDC SME
+
 * Creator and principal maintainer of https://github.com/kafka-ops/julie[JulieOps], wild adopted solution for gitops
 
 |===
@@ -76,15 +78,4 @@ solutions to improve, and analyse, their production process. This projects inclu
 |Berlin, Germany| March 2011 - Feb 2012
 2+| As a senior data digester I’m involved into every NoSQL use case detected inside the company. Specialized on Graph databases, developing algorithms and
 data modeling and analytics over some huge datasets.
-|===
-
-=== Data Management Group - _Senior Software Engineer_
-[small]#Dept of Computer Architecture, Universitat Politècnica de Catalunya#
-
-[frame="none", grid="none"]
-|===
-|Barcelona, Spain | May 2008 - Dec 2010
-2+| As a DEX team member I’m the main developer taking on the evolution of the new visual management tool set. DEX is a new generation of database following
-the graph database paradigm, specifically DEX has got very optimal performance times with database of TB. Also I’m in charge of the maintenance of Bibex,
-a bibliographic search application on top of DEX. The main technologies involved in my work are Java, J2EE and Python.
 |===
