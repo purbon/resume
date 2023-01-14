@@ -14,8 +14,8 @@
 [cols="2", frame="none", grid="none"]
 |===
 2+| icon:location-arrow[location-arrow] Wildenbruchstr 85 12045 Berlin, Germany.
-| icon:phone[phone]  +49.157/81949910 | icon:envelope[envelope] pere.urbon@acm.org
-| icon:connectdevelop[connectdevelop] http://www.purbon.com |icon:github[github] http://github.com/purbon
+| icon:phone[phone]  +49.157/81949910 | icon:envelope[envelope] pere.urbon@gmail.com
+| icon:connectdevelop[connectdevelop] https://purbon.substack.com/ |icon:github[github] http://github.com/purbon
 |===
 
 == I worked for
@@ -29,7 +29,8 @@ include::work_for.adoc[]
 [source,json]
 ----
 {
-  "2009": "Enginyer en Informatica by Universitat Oberta de Catalunya",
+  "2022": "MSc in Computational Engineering and Mathematics by Universitat Rovira i Virgili",
+  "2009": "Computer Science Engineering by Universitat Oberta de Catalunya",
 }
 ----
 
@@ -50,7 +51,7 @@ include::work_for.adoc[]
 * Programming: Ruby, Java, Scala, Go, Python, Git, Subversion.
 * Databases/NoSQL: MySQL, Kafka, ELK stack, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server, Cassandra.
 * Web stack: Micronaut.io, Spring Boot, PlayFramework, Ruby on Rails, HTML5, CoffeeScript, JQuery.
-* Data and Analytics stack: Spark, Apache Nifi, Kafka Streams, Akka, Akka Streams. Tableu, Pentaho, Grafana, Kibana.
+* Data and Analytics stack: Spark, Apache NiFi, Kafka Streams, Akka, Akka Streams. Tableu, Pentaho, Grafana, Kibana.
 * Streaming Platforms: Confluent Platform / Apache Kafka.
 * Devops: Ansible, OpenStack, Terraform, AWS, GCP, GoCD, Jenkins, Cloud Foundry, Kubernetes, Docker.
 * Projects: Scrum, Kanban, SAFe, UML, Jira, Team building.

@@ -11,6 +11,9 @@ The activities range from Architecture Workshops, Capacity Planning, Troubleshoo
 as development of custom Kafka Streams applications (for high scale use cases), specialized Kafka Connectors and Self Service setups
 among others.
 
+* Kafka Connect and CDC SME
+* Creator and principal maintainer of https://github.com/kafka-ops/julie[JulieOps], wild adopted solution for gitops
+
 |===
 
 === Freelance - _Software Architect, Search and Data Engineering Consultant_
