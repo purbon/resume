@@ -17,7 +17,7 @@
 |===
 2+| icon:location-arrow[location-arrow] Steinbachstr 121, 12489 Berlin. Germany.
 | icon:phone[phone]  +49.157/81949910 | icon:envelope[envelope] pere.urbon@gmail.com
-| icon:connectdevelop[connectdevelop] https://purbon.substack.com |icon:github[github] http://github.com/purbon
+| icon:connectdevelop[connectdevelop] https://www.linkedin.com/in/purbon/ |icon:github[github] http://github.com/purbon
 |===
 
 == I worked for
