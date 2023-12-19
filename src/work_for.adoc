@@ -10,12 +10,20 @@ in EMEA.
 The activities range from Architecture Workshops, Capacity Planning, Troubleshooting as well
 as development of custom Kafka Streams applications (for high scale use cases), specialized Kafka Connectors and Self Service setups
 among others.
+|===
 
+Topics:
 
-* Kafka Connect and CDC SME
-
-* Creator and principal maintainer of https://github.com/kafka-ops/julie[JulieOps], wild adopted solution for gitops
-
+[cols="2", frame="none", grid="none"]
+|===
+a|
+* Solution Architecture
+* Kafka Connect
+a|
+* Devops SME
+* Change Data Capture SME
+2+|
+Creator of https://github.com/kafka-ops/julie[JulieOps] a wild adopted solution for gitops
 |===
 
 === Freelance - _Software Architect, Search and Data Engineering Consultant_
@@ -26,19 +34,16 @@ among others.
 2+| As a Software Architect on Search and Data Engineering I help my clients setup proper data engineering practices, this include help defining the data engineering architecture, the deployment on cloud,
 on premises or hybrid, consulting on specific project needs, setting up educational workshops, setting best practices and software development.
 
-Current and past clients include: _Outfittery Gmbh_, _Eurecat, Centre Tecnològic de Catalunya_, _Springer Nature Gmbh_, _The Walt Disney Company, Disney Research Zurich_, _Privalia SL_, _Geenapp SL_.
+Notable clients: _Outfittery Gmbh_, _Eurecat, Centre Tecnològic de Catalunya_, _Springer Nature Gmbh_, _The Walt Disney Company, Disney Research Zurich_, _Privalia SL_, _Geenapp SL_.
+|===
 
 Projects samples:
 
 * Driving a team of engineers build a new generation data platform.
-
 * Leading a cross functional team of software engineers, data engineers and scientist building data centric solutions.
-
 * Build state of the art search solutions.
-
 * Give educational workshops on topics such as Search and Data Engineering.
 
-|===
 <<<<
 === Elasticsearch Gmbh - _Software Engineer_
 
