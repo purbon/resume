@@ -75,12 +75,3 @@ Dealing with things like Ruby, C, Kafka, Rails, Memcache, Redis and Exasol.
 large amount of data, and helping our planet to be more green. With special focus on Smart Grid solutions, we provide solar energy companies with
 solutions to improve, and analyse, their production process. This projects include collaborations with top German Universities.
 |===
-
-=== Moviepilot Gmbh - _Senior Data Digester_
-
-[frame="none", grid="none"]
-|===
-|Berlin, Germany| March 2011 - Feb 2012
-2+| As a senior data digester I’m involved into every NoSQL use case detected inside the company. Specialized on Graph databases, developing algorithms and
-data modeling and analytics over some huge datasets.
-|===
