@@ -62,6 +62,7 @@ include::work_for.adoc[]
 * IDE: Vim, Eclipse, IntelliJ IDEA, Visual Studio.
 * Others: Hortonworks
 
+<<<
 [[talks]]
 == Talks, Conferences and Contributions
 

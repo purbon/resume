@@ -1,69 +1,36 @@
-# invoke with -a pdf-theme=chronicles-dark -a rouge-style=molokai
-extends: chronicles
-page:
-  background-color: #000000
-base:
-  font-color: #CCCCCC
-  border-color: #111111
-link:
-  font-color: #BD7435
-codespan:
-  font-color: #4EDEB9
-mark:
-  background-color: #0000FF
-kbd:
-  background-color: #0A0A0A
-  border-color: #333333
-heading:
-  font-color: $base-font-color
-title-page:
-  title:
-    font-color: #666666
-  authors:
-    font-color: #E7E7E7
+extends: default
+role:
+  love:
+    font-color: #E0245E
+  wild:
+    font-color: #222222
+    text-transform: uppercase
+    font-style: italic
+    background-color: #BCD637
+    border-offset: 1.5
 abstract:
-  font-color: #A39D99
-admonition:
-  column-rule-color: $base-border-color
-  icon:
-    caution:
-      stroke-color: #40CBFF
-    note:
-      stroke-color: #E6BF83
-    tip:
-      stroke-color: #EEEEEE
-    warning:
-      stroke-color: #4096FF
-quote:
-  border-color: $base-border-color
-  cite:
-    font-color: #666666
-verse:
-  border-color: $quote-border-color
-  cite:
-    font-color: $quote-cite-font-color
-code:
-  font-color: $base-font-color
-  background-color: #0A0A0A
-  border-color: #333333
-conum:
-  font-color: $codespan-font-color
-example:
-  background-color: $page-background-color
-  border-color: $base-border-color
-sidebar:
-  background-color: #111111
-  border-color: #1A1A1A
-  title:
-    font-color: $heading-font-color
-thematic-break:
-  border-color: $base-border-color
-table:
-  background-color: $page-background-color
-  border-color: #222222
-  foot:
-    background-color: $table-background-color
+  first-line:
+    text-transform: smallcaps
 header:
-  font-color: #666666
+  font-color: #999999
+  height: 0.5in
+  recto:
+    columns: '<40% =20% >40%'
+    right:
+      content: '_{organization}_'
+    center:
+      content: image:sample-logo.jpg[pdfwidth=0.25in]
+  verso:
+    columns: $header_recto_columns
+    left:
+      content: $header_recto_right_content
+    center:
+      content: $header_recto_center_content
 footer:
-  border-color: #222222
+  height: 0.45in
+  recto:
+    right:
+      content: '{section-or-chapter-title} | {page-number}'
+  verso:
+    left:
+      content: '{page-number} | {chapter-title}'

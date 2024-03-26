@@ -35,14 +35,14 @@ footer:
     left:
       content: '{page-number} | {chapter-title}'
 base:
-  font_family: Helvetica
-  font_size: 12
+  font_family: Times-Roman
+  font_size: 11
 page:
   page_size: Letter
 heading:
-   h1-font-size: 16
-   h2-font-size: 14
-   h3-font-size: 12
+   h1-font-size: 18
+   h2-font-size: 16
+   h3-font-size: 14
 list:
   item-spacing: 2
 code:
@@ -50,3 +50,4 @@ code:
   font_family: Helvetica
   font-style: normal
   padding: 5mm
+

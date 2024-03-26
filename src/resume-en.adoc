@@ -42,14 +42,16 @@ include::work_for.adoc[]
 
 == Topics of Interest
 
-* Programming: Ruby, Java, Python, Go, Scala, Git, Subversion.
-* Databases/NoSQL: MySQL, Kafka, ELK stack, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server, Cassandra.
-* Web stack: Micronaut.io, Spring Boot, PlayFramework, Ruby on Rails, CoffeeScript.
-* Data and Analytics stack: Spark, Apache NiFi, Kafka Streams, Akka, Akka Streams.
+* Programming: Python, Java, Ruby, Go, Scala, Git, Subversion.
+* Databases/NoSQL: MySQL, Kafka, ELK stack, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server.
+* Web stack: Micronaut.io, Spring Boot, Ruby on Rails, CoffeeScript, PlayFramework.
+* Data and Analytics stack: Spark, Apache NiFi, Kafka Streams, Flink, Akka, Akka Streams.
 * Data Science/ML: scikit-learn, Keras, Statistics, Operational Research 
 * Streaming Platforms: Confluent Platform / Apache Kafka.
 * Devops: Ansible, OpenStack, Terraform, AWS, GCP, GoCD, Jenkins, Cloud Foundry, Kubernetes, Docker.
-* Projects: Scrum, Kanban, SAFe, UML, Jira, Team building.
+* Projects: Engineering Leadership, Scrum, Kanban, SAFe, UML, Jira, Team building.
+
+<<<
 
 == Talks, Conferences and Contributions
 
