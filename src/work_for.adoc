@@ -1,7 +1,7 @@
-[cols=">14,2,70,>.^~", grid="none", frame="none"]
+[cols=">16,2,70,>.^~", grid="none", frame="none"]
 |===
 
-|10.2018 - now
+<|10.2018 - now
 |
 s|"Confluent Inc", Senior Solutions Architect, Professional Services
 |Berlin, Germany 
@@ -12,12 +12,12 @@ s|"Confluent Inc", Senior Solutions Architect, Professional Services
 - Lead Engineer for the integration work stream in a multi-year, multi-department project for a top tier telco in Germany. Enabled the company to highly reduce the customer churn.
 - Lead Engineer for multiple Kafka/Confluent migration projects for critical infrastructure in Germany. Faciltiated best practices, reduce incidents and delivery on objective.
 - Developed Kafka Stream application using Spring Boot framework for data manipulation and enrichment for high throughput, low latency fraud detection for top financial institution in Germany and Israel.
-- Championed the develivery of self-service Kafka internally and externally, helping teams reduce costs and improve team autonomy and satisfaction.
-- Created, developed and main mantainer for  https://github.com/kafka-ops/julie[JulieOps], a well adopted open source project for gitops.
+- Championed the develivery of self-service Kafka internally and externally, helping teams reduce costs and improve team autonomy and satisfaction. Creator of https://github.com/kafka-ops/julie[JulieOps].
 - _Java, Spring boot, Python, Kafka, Kafka Streams, Kafka Connect, Kubernetes, Terraform, Prometheus, Grafana_ 
 -  _Solution Architecture, Engineering Leadership, MLOps, Fraud detection, Customer360, DevOps SME, CDC SME_.
+{nbsp} +
 
-|10.2016 – 09.2018
+<|10.2016 – 09.2018
 |
 s|"Freelancer", Software Architect, Search and Data Engineering Consultant
 |Berlin, Germany
@@ -25,18 +25,15 @@ s|"Freelancer", Software Architect, Search and Data Engineering Consultant
 |
 |
 2+a|
-- Lead Engineer by Springer Nature on the NatureCareers project. Revamp the project search by introducing Learning to Rank and personalisation. Reduced churn and increase platform satisfaction, driving increased sales.
-- Mentoring a team of 6 developers: ensuring high code quality and propagating best coding practices.
+- Lead Engineer by Springer Nature on the NatureCareers project. Revamp the project search by introducing Learning to Rank and personalisation. Reduced churn and increase platform satisfaction, driving increased sales. Lead and mentor for a team of 6 developers.
 - Help migrate an Spark based data preparation layer into early versions of Kafka Streams. Reduced operational cost and time to add new features. 
 - Lead consultant and advisor to Outfittery GmbH on architecting a successful Data Platform. Mentored the team an advised on configuring a high performant team.  
 - Train multiple teams on ELK stack best practices, Search Engineering and Data Integration practices.
 - _Java, Ruby, Spring Boot, Akka, Apache Nifi, Logstash, Elasticsearch, Kafka, Kafka Streams, Docker_
 - Notable clients:  _Outfittery Gmbh_, _Springer Nature Gmbh_, _The Walt Disney Company, Disney Research Zurich_, _Privalia SL_.
 {nbsp} +
-{nbsp} +
-{nbsp} +
-{nbsp} +
-|11.2014 – 10.2016
+
+<|11.2014 – 10.2016
 |
 s|"Elasticsearch GmbH", Software Engineer
 |Berlin, Germany
@@ -49,8 +46,9 @@ s|"Elasticsearch GmbH", Software Engineer
 - Escalation point of contact for Logstash in EMEA.
 - Give multiple training on the ELK stack and Kibana around EMEA.
 - _Java, Ruby, Logstash, Elasticsearch, Kafka, Docker, Neo4j, ArangoDB, Testing_
+{nbsp} +
 
-|06.2014 – 11.2014
+<|06.2014 – 11.2014
 |
 s|"Fyber GmbH", Senior Software Engineer
 |Berlin, Germany

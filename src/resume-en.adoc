@@ -30,7 +30,7 @@ include::work_for.adoc[]
 
 == Education
 
-[cols=">14,2,70,>.^~", grid="none", frame="none"]
+[cols=">16,2,70,>.^~", grid="none", frame="none"]
 |===
 
 |2023 - 2024
