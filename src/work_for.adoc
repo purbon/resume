@@ -11,7 +11,7 @@ s|"Confluent Inc", Senior Solutions Architect, Professional Services
 2+a|
 - Lead Engineer for the integration work stream in a multi-year, multi-department project for a top tier telco in Germany. Enabled the company to highly reduce the customer churn.
 - Lead Engineer for multiple Kafka/Confluent migration projects for critical infrastructure in Germany. Faciltiated best practices, reduce incidents and delivery on objective.
-- Developed Kafka Stream application using Spring Boot framework for data manipulation and enrichment for high throughput, low latency fraud detection for top financial institution in Germany and Israel.
+- Developed Kafka Stream applications using the Spring Boot framework for data manipulation and enrichment on a high throughput, low latency fraud detection project for a top financial institution in Germany and Israel.
 - Championed the develivery of self-service Kafka internally and externally, helping teams reduce costs and improve team autonomy and satisfaction. Creator of https://github.com/kafka-ops/julie[JulieOps].
 - _Java, Spring boot, Python, Kafka, Kafka Streams, Kafka Connect, Kubernetes, Terraform, Prometheus, Grafana_ 
 -  _Solution Architecture, Engineering Leadership, MLOps, Fraud detection, Customer360, DevOps SME, CDC SME_.
