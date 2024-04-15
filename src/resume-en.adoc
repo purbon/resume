@@ -22,6 +22,10 @@
 
 == Professional experience
 
+I'm a pragmatic and solutions driven Software Engineer turned Architect and Engineering Leader. 
+With a broad experience on operations and development and a strive for well tested and developed code, I'm able to deliver and provide value to the business.
+Developed my career around data intensive applications, including time in research as well as industry, I'm able to cross the bridge between Applied Research and Engineering.
+
 include::work_for.adoc[]
 
 == Education
@@ -54,22 +58,38 @@ s|Universitat Oberta de Catalunya, Engineering School
 |===
 
 == Language skills
-
+[cols="1,1", grid="none", frame="none"]
+|===
+a|
 * English - Fluent
 * Deutsche - Conversation
+a|
 * Catalan - Native
 * Spanish - Native
+|===
 
-== Programming skills
+== Software Engineering skills
 
-* Programming: Python, Java, Ruby, Go, Scala, Git, Subversion.
-* Databases/NoSQL: MySQL, Kafka, ELK stack, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server.
-* Web stack: Micronaut.io, Spring Boot, Ruby on Rails, CoffeeScript, PlayFramework.
+* Programming: Python, Java, Ruby, Go, Git, Subversion.
+* Web stack:Spring Boot, Micronaut.io, Ruby on Rails, CoffeeScript, PlayFramework.
 * Data and Analytics stack: Spark, Apache NiFi, Kafka Streams, Flink, Akka, Akka Streams.
-* Data Science/ML: scikit-learn, Keras, Statistics, Operational Research 
+* Databases/NoSQL: MySQL, Kafka, ELK stack, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server.
 * Streaming Platforms: Confluent Platform / Apache Kafka.
-* Devops: Ansible, OpenStack, Terraform, AWS, GCP, GoCD, Jenkins, Cloud Foundry, Kubernetes, Docker.
 * Projects: Engineering Leadership, Scrum, Kanban, SAFe, UML, Jira, Team building.
+
+== Analytics and ML skills
+* Data Science/ML: scikit-learn, Keras, Statistical analysis 
+* Optimization: Operational Research, Optaplanner
+
+== Devops skills
+* Infrastructure as Code (IaC): Ansible, Terraform.
+* Monitoring: Prometheus, Grafana, ELK, Datadog.
+* Change data capture: Debezium, Golden Gate.
+* Databases/NoSQL: Kafka, ELK stack.
+* CI/CD: GoCD, Jenkins, Cloud Foundry, Kubernetes, Docker, OpenStack.
+* Cloud: AWS, Azure.
+
+<<<
 
 == Talks, Conferences and Contributions
 
