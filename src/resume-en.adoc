@@ -20,27 +20,47 @@
 | icon:connectdevelop[connectdevelop] https://www.linkedin.com/in/purbon/ |icon:github[github] http://github.com/purbon
 |===
 
-== I worked for
+== Professional experience
 
 include::work_for.adoc[]
 
-== Education and Languages
+== Education
 
-[source,json]
-----
-"education": {
-  "2022": "MSc in Computational Engineering and Mathematics by Universitat Rovira i Virgili",
-  "2009": "Computer Science Engineering by Universitat Oberta de Catalunya"
-},
-"languages" : {
-  "English": "Fluent",
-  "Deutsche": "Conversation",
-  "Catalan": "Native",
-  "Spanish": "Native"
-}
-----
+[cols=">14,2,70,>.^~", grid="none", frame="none"]
+|===
 
-== Topics of Interest
+|2023 - 2024
+|
+s|Universitat Rovira i Virgili, Engineering School
+
+|Tarragona, Spain
+
+|
+|
+2+a|
+- Master of Science in Computational Engineering and Mathematics
+- Master thesis: "Mashing and Handball, predicting play possession with accuracy"
+
+|2000 – 2009
+|
+s|Universitat Oberta de Catalunya, Engineering School
+|Barcelona, Spain
+
+|
+|
+2+a|
+- Computer Science Engineering
+- Thesis: "Predicting bugs in software development using AI"
+|===
+
+== Language skills
+
+* English - Fluent
+* Deutsche - Conversation
+* Catalan - Native
+* Spanish - Native
+
+== Programming skills
 
 * Programming: Python, Java, Ruby, Go, Scala, Git, Subversion.
 * Databases/NoSQL: MySQL, Kafka, ELK stack, Neo4j, MongoDB, Redis, PostgreSQL, SQL Server.
@@ -50,8 +70,6 @@ include::work_for.adoc[]
 * Streaming Platforms: Confluent Platform / Apache Kafka.
 * Devops: Ansible, OpenStack, Terraform, AWS, GCP, GoCD, Jenkins, Cloud Foundry, Kubernetes, Docker.
 * Projects: Engineering Leadership, Scrum, Kanban, SAFe, UML, Jira, Team building.
-
-<<<
 
 == Talks, Conferences and Contributions
 

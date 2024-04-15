@@ -1,6 +1,7 @@
 .PHONY: pdf
 pdf:
-	asciidoctor -r asciidoctor-pdf -b pdf -a pdf-theme=chronicles -a rouge-style=molokai src/resume-en.adoc -D .
+#	 chronicles
+	asciidoctor -r asciidoctor-pdf -b pdf -a pdf-theme=cv -a rouge-style=molokai src/resume-en.adoc -D .
  
 .PHONY: html
 html:

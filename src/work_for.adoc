@@ -1,18 +1,25 @@
-=== Confluent Inc - _Senior Field Engineer | Solutions Architect, Services team_
+=== Senior Solutions Architect, Confluent Inc - Professional Services team
 
 [cols="2", frame="none", grid="none"]
 |===
 <|Berlin, Germany 
 >| October 2018 - Present
-2+| As part of the Services organistion I have participated as lead Consultant on architecting,
- deploying and scaling real-time use cases using Confluent Platform/Kafka for top companies in EMEA.
+2+| As part of the Services department, has been engaged as Lead Consultant and Principal Engineer, architecting,
+ deploying and scaling real-time data integration use cases using Confluent Platform/Kafka for top companies in EMEA.
 |===
 
-Core activities, responsabilites and achievements:
+Achivements:
 
-* Delivered critical architecture workshops, operational readiness, troubleshooting and migration exercices that enabled the project to be delivered on time following initial expectations. 
-* Developed Streaming applications using Kafka Streams, Flink and Kafka Connectfor Fraud detection, Customer360, Transaction unification and smaller ML use cases.
-* Championed the delivery of self-service solutions for the customers that allowed their teams to deliver faster archiving high levels of autonomy.
+* Lead the integration work stream in a multi-year, multi-department project for a top tier telco in Germany. 
+Delivered project objective on time, keep opertional excelence, while managing to scale up a team new to the technology. 
+Enabled the company to reduce customer churn.
+* Championed the develivery of self-service Kafka internally and externally, helping teams reduce the opertional cost and support team autonomy.
+Created, developed and main mantainer for  https://github.com/kafka-ops/julie[JulieOps], a well adopted open source project for gitops.  
+
+//Core activities, responsabilites and achievements:
+//* Delivered critical architecture workshops, operational readiness, troubleshooting and migration exercices that enabled the project to be delivered on time following initial expectations. 
+//* Developed Streaming applications using Kafka Streams, Flink and Kafka Connectfor Fraud detection, Customer360, Transaction unification and smaller ML use cases.
+//* Championed the delivery of self-service solutions for the customers that allowed their teams to deliver faster archiving high levels of autonomy.
  
 Topics:
 [small]
@@ -29,9 +36,7 @@ Topics:
 * Change Data Capture SME
 |===
 
-[small]#Creator of https://github.com/kafka-ops/julie[JulieOps] a wild adopted solution for gitops#
-
-=== Freelance - _Software Architect, Search and Data Engineering Consultant_
+=== Software Architect, Search and Data Engineering Consultant, Freelance
 
 [cols="2", frame="none", grid="none"]
 |===
@@ -50,7 +55,8 @@ Projects samples:
 * Build state of the art search solutions.
 * Give educational workshops on topics such as Search and Data Engineering.
 
-=== Elasticsearch Gmbh - _Software Engineer_
+
+=== Software Engineer, Elasticsearch Gmbh
 
 [cols="2", frame="none", grid="none"]
 |===
@@ -63,7 +69,7 @@ I'm also able to help out in support, specially on issues escalation and custome
 During my journey I've been able to deliver talks at 7 conferences, and several user groups, also one invited talk at CERN.
 |===
 
-=== Fyber Gmbh - _Senior Software Engineer_
+=== Senior Software Engineer,  Fyber Gmbh
 
 [cols="2", frame="none", grid="none"]
 |===
